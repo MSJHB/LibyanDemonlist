@@ -1,0 +1,17 @@
+{
+    "id": 20159880,
+    "name": "Plasma Pulse III",
+    "author": "Smokes",
+    "creators": ["Giron", "Smokes"],
+    "verification": "https://www.youtube.com/watch?v=sBZpCXq4k5k",
+    "percentToQualify": "100",
+    "password": "250516",
+    "records": [
+        {
+            "user": "HunterX44",
+            "link": "https://www.youtube.com/watch?v=sBZpCXq4k5k",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
