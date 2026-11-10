@@ -1,0 +1,17 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Marwec", "VictorinoxX", "OpteX", "Dominus", "Vapen", "Sminx", "Eggnog", "Ferdefunky", "Buragoz", "Zalspr", "Firs", "Rebix"],
+    "verification": "https://www.youtube.com/watch?v=LqxWL67KD80",
+    "percentToQualify": "100",
+    "password": "236589",
+    "records": [
+        {
+            "user": "Leyas",
+            "link": "https://www.youtube.com/watch?v=LqxWL67KD80",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
