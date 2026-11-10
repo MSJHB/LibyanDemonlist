@@ -1,0 +1,17 @@
+{
+    "id": 56089612,
+    "name": "Zettabyte",
+    "author": "Jenkins",
+    "creators": [],
+    "verification": "https://www.youtube.com/watch?v=GM3HoAVJnHo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leyas",
+            "link": "https://www.youtube.com/watch?v=GM3HoAVJnHo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
