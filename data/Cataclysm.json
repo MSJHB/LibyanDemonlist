@@ -1,0 +1,17 @@
+{
+    "id": 34057654,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": [],
+    "verification": "https://www.youtube.com/watch?v=HOghqGsJMVI",
+    "percentToQualify": "100",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Leyas",
+            "link": "https://www.youtube.com/watch?v=HOghqGsJMVI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
